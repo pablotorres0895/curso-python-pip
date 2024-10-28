@@ -1,3 +1,7 @@
+# images and csv remove from repo
+app/imgs/
+app/pie.png
+charts/pie.png
 # Created by https://www.toptal.com/developers/gitignore/api/macos,linux,windows,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,windows,python
 
